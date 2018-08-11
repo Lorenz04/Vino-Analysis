@@ -16,6 +16,7 @@ In the end, I would like to know which constitutes to look for when buying the n
 Therefore, I will investigate what variables might influence the quality.
 Finally, I will build a model that can predict wine quality based on its substances.
 
+## Contents
 
 1. RMD file of analysis
 2. HTML file of analysis
