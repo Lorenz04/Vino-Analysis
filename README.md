@@ -1,6 +1,6 @@
 # Vino Analysis
 
-This is the updated version of 
+This is the updated version.
 
 ## Intro
 Vino is everywhere! Especially white wine is the go the beverage during the summer as it is served best ice cold.
