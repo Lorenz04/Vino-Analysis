@@ -1,5 +1,7 @@
 # Vino Analysis
 
+This is the updated version of 
+
 ## Intro
 Vino is everywhere! Especially white wine is the go the beverage during the summer as it is served best ice cold.
 And let's face it: it is extremely hard to determine the quality of a wine, and most people are not able to do it (myself included)!
