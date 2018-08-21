@@ -21,7 +21,7 @@ Finally, I will build a model that can predict wine quality based on its substan
 ## Contents
 
 1. RMD file of analysis
-2. HTML file of analysis
+2. HTML file of analysis (right click on Download > save link as)
 3. Dataset
 
 Have fun!
